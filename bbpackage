@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var BBPlugin = require('./index'),
+    bbplugin = new BBPlugin();

@@ -1,0 +1,28 @@
+{
+  "name": "bbpackage",
+  "version": "0.0.1",
+  "description": "A package manager for BBEdit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bbedit",
+    "plugins"
+  ],
+  "author": "Tim Ambler <tkambler@gmail.com> (http://bitcubby.com)",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "commander": "~2.2.0",
+    "q": "~1.0.1",
+    "shelljs": "~0.3.0",
+    "request": "~2.36.0",
+    "moment": "~2.6.0",
+    "unzip": "~0.1.9",
+    "glob": "~4.0.0",
+    "plist": "~1.0.0",
+    "simple-plist": "0.0.2",
+    "underscore.string": "~2.3.3"
+  }
+}
