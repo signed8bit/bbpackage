@@ -1,6 +1,6 @@
 {
   "name": "bbpackage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package manager for BBEdit.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,8 @@
     "plist": "~1.0.0",
     "simple-plist": "0.0.2",
     "underscore.string": "~2.3.3",
-    "querystring": "~0.2.0"
+    "querystring": "~0.2.0",
+    "handlebars": "~2.0.0-alpha.4"
   },
   "preferGlobal": true,
   "bin": {
