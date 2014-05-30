@@ -23,6 +23,11 @@
     "glob": "~4.0.0",
     "plist": "~1.0.0",
     "simple-plist": "0.0.2",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~2.3.3",
+    "querystring": "~0.2.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "bbpackage": "./bbpackage"
   }
 }
