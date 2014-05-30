@@ -62,3 +62,7 @@ To understand how to go about creating your own packages, it would be best to lo
 The [BBEdit documentation](http://pine.barebones.com/manual/BBEdit_10_User_Manual.pdf) defines a format that packages should follow (see the "Language Modules and Packages" chapter), and that is exactly what bbpackage expects, with one optional addition:
 
 If you are familiar with Node.js and prefer to write your packages within that framework (like I do), within your package's `Contents` folder, you can create a `package.json` file. If this file exists, bbpackage will automatically install any defined dependencies when your package is installed.
+
+## Discuss
+
+This project is in its infancy. If you'd like to discuss, join the #bbpackage channel on Freenode.
